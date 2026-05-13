@@ -1,4 +1,4 @@
-const API_URL = "https://be-rest-276882742884.us-central1.run.app/notes";
+const API = "https://be-rest-276882742884.us-central1.run.app/notes";
 
 const inputJudul = document.getElementById('judul');
 const inputIsi = document.getElementById('isi');
